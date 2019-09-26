@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CP055428/select-a11y-playground/static/css/main.b100e6da.chunk.css",
-    "main.js": "/CP055428/select-a11y-playground/static/js/main.15d6d44a.chunk.js",
-    "main.js.map": "/CP055428/select-a11y-playground/static/js/main.15d6d44a.chunk.js.map",
-    "runtime-main.js": "/CP055428/select-a11y-playground/static/js/runtime-main.11e75303.js",
-    "runtime-main.js.map": "/CP055428/select-a11y-playground/static/js/runtime-main.11e75303.js.map",
-    "static/js/2.f876f651.chunk.js": "/CP055428/select-a11y-playground/static/js/2.f876f651.chunk.js",
-    "static/js/2.f876f651.chunk.js.map": "/CP055428/select-a11y-playground/static/js/2.f876f651.chunk.js.map",
-    "index.html": "/CP055428/select-a11y-playground/index.html",
-    "precache-manifest.305bc97373a928392c693d5f5856e46c.js": "/CP055428/select-a11y-playground/precache-manifest.305bc97373a928392c693d5f5856e46c.js",
-    "service-worker.js": "/CP055428/select-a11y-playground/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/CP055428/select-a11y-playground/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/CP055428/select-a11y-playground/static/media/logo.25bf045c.svg"
+    "main.css": "/select-a11y-playground/static/css/main.b100e6da.chunk.css",
+    "main.js": "/select-a11y-playground/static/js/main.c20c0799.chunk.js",
+    "main.js.map": "/select-a11y-playground/static/js/main.c20c0799.chunk.js.map",
+    "runtime-main.js": "/select-a11y-playground/static/js/runtime-main.bc7ea403.js",
+    "runtime-main.js.map": "/select-a11y-playground/static/js/runtime-main.bc7ea403.js.map",
+    "static/js/2.f876f651.chunk.js": "/select-a11y-playground/static/js/2.f876f651.chunk.js",
+    "static/js/2.f876f651.chunk.js.map": "/select-a11y-playground/static/js/2.f876f651.chunk.js.map",
+    "index.html": "/select-a11y-playground/index.html",
+    "precache-manifest.d7affa0b87cac707b8de11428412c02e.js": "/select-a11y-playground/precache-manifest.d7affa0b87cac707b8de11428412c02e.js",
+    "service-worker.js": "/select-a11y-playground/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/select-a11y-playground/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/select-a11y-playground/static/media/logo.25bf045c.svg"
   }
 }
